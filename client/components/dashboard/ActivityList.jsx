@@ -49,4 +49,4 @@ export default function ActivityList() {
       </ul>
     </div>
   );
-}scrollTo
+}
